@@ -7,9 +7,8 @@ HTML, CSS, and JavaScript.
 ## Projects
 - [ ] Project 1 - Color Flipper
 - [ ] Project 2 - Palindrome Checker 
-- [ ] Project 3 -  Random Quote Generator
-- [ ] Project 4 - Stop Watch
-- [ ] Project 5 - ToDo List
+- [ ] Project 3 - Stop Watch
+- [ ] Project 4 - ToDo List
 
 ## Tools & Technologies
 - HTML5
